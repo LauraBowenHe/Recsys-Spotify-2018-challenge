@@ -2,7 +2,7 @@
 Source code of  our solutions to recsys-spotify 2018 challenge
 
 
-Copyright [2018] [Bowen He, Lin Zhu]
+Copyright [2018] [Bowen He, Lin Zhu, Mengxin Ji, Cheng Ju]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
