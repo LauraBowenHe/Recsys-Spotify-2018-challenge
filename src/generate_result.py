@@ -8,6 +8,9 @@ Created on Sun Jul  1 17:39:45 2018
 
 import os
 
+if not os.path.exists('./data/'):
+    os.mkdir('./data/')
+
 os.chdir('./utilities')
 os.system("python auto_generate.py")
 
