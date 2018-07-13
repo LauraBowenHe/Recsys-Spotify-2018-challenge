@@ -5,6 +5,7 @@ import scipy.sparse as sp
 from scipy.sparse import coo_matrix 
 import numpy  
 
+''' recommendation work as utility '''
 
 ###
 ### PREDICTORS
