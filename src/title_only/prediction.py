@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """
+use nlp and cf
 Created on Fri Jun 15 22:56:49 2018
 
 @author: bwhe
