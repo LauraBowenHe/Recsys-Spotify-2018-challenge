@@ -1,4 +1,4 @@
-# Our Codes for the RecSys 2018 Challenge (6th Position on the Public Leaderboard)
+# Our Codes for the RecSys 2018 Challenge (6th Position on the Final Leaderboard)
 
  
 
